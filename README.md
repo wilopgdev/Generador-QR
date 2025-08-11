@@ -1,2 +1,10 @@
-# Generador-QR
-Programa en mejora generar un QR a partir de información suministrada por el usuario.
+# generador_QR
+Script y aplicaciones para generar códigos QR
+
+He creado este pequeño script para crear QRs, con el tiempo espero mejorarlo.
+___
+#### Requisitos
+Neceista la librería QR Code
+~~~
+pip install qrcode
+~~~
